@@ -1,3 +1,9 @@
-# react-native-task
-des
-# The largest heading
+# React Native App
+
+
+
+
+
+# Getting Start
+npm install
+npm start
