@@ -1,7 +1,7 @@
 # React Native App
-## Features
-![screen1](https://user-images.githubusercontent.com/46901031/195465849-6cfd6891-6348-4359-96bf-043221a54439.PNG)
-![screen2](https://user-images.githubusercontent.com/46901031/195465865-5e00271f-75eb-49e0-a451-8f6ee372889e.PNG)
+## Features!
+[screen2](https://user-images.githubusercontent.com/46901031/195466027-143d151e-acca-43a0-80be-ff523712b3aa.PNG)
+![screen1](https://user-images.githubusercontent.com/46901031/195466025-811b52d1-1472-4aa6-a3ef-4359adedf4b8.PNG)
 
 
 # Getting Started
