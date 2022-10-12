@@ -15,13 +15,13 @@ When we click on a cell, we can see the image of it as full screen with the help
 ![screen3](https://user-images.githubusercontent.com/46901031/195466836-bb71242f-7752-4eda-8774-1001713a3d62.PNG)
 
 
-# Installation
-## Clone my repo
+## Installation
+### Clone my repo
 ```bash
 git clone https://github.com/smtkcbs/react-native-task.git
 cd react-native-task
 ```
-## Getting Started
+### Getting Started
 ```bash
 $ npm install
 $ npm start
