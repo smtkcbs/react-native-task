@@ -16,7 +16,7 @@ When we click on a cell, we can see the image of it as full screen with the help
 
 
 ## Installation
-### Clone my repo
+### Clone the repo
 ```bash
 git clone https://github.com/smtkcbs/react-native-task.git
 cd react-native-task
